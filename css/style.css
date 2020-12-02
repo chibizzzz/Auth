@@ -61,7 +61,7 @@ p:hover{
 }
 #login-form input[type=text]:hover{
     border: black solid 3px;
-    background-color: rgb(204, 191, 191);
+    background-color: white;
 }
 
 
